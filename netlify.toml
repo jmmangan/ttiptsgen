@@ -3,5 +3,4 @@
   functions = "netlify/functions"
 
 [functions]
-  node_bundler = "esbuild"
-  external_node_modules = ["@sparticuz/chromium"]
+  node_bundler = "none"
